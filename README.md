@@ -25,7 +25,7 @@ The project uses Excel for data cleaning, SQL for analysis, and Power BI for vis
 - Keep top-selling products well stocked
 
 ## Dashboard Preview
-![Dashboard](Images/ecommerce_dashboard_overview.png)
+![Dashboard](Images/ecommerce_dashboard_overview.PNG)
 
 ## Author
 Christine Wawira  
